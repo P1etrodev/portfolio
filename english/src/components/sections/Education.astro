@@ -8,10 +8,17 @@ import { education } from "@cv";
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {
-        const startYear = new Date(startDate).getFullYear();
-        const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual";
-        const years = `${startYear} - ${endYear}`;
+        const startDateObj = new Date(startDate);
+        const endDateObj = endDate != null ? new Date(endDate) : new Date();
+        const start = {
+          month: startDateObj.getMonth() + 1,
+          year: startDateObj.getFullYear(),
+        };
+        const end = {
+          month: endDateObj.getMonth() + 1,
+          year: endDateObj.getFullYear(),
+        };
+        const years = `${start.month}/${start.year} - ${end.month}/${end.year}`;
 
         return (
           <li>

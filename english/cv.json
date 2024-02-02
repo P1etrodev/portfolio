@@ -31,7 +31,7 @@
       "name": "Umoob",
       "position": "Junior Backend Developer (Apprenticeship)",
       "url": "https://www.umoob.com/",
-      "startDate": "2023-01-01",
+      "startDate": "2023-01-02",
       "endDate": "2023-02-01",
       "summary": "I developed endpoints for the Umoob official API, achieving improvements in queries and implementing some new ones. Besides I've written documentation for the API using notion, since the team didn't have a proper one.",
       "highlights": []
@@ -40,7 +40,7 @@
       "name": "WeBookYou",
       "position": "Junior Backend Developer (Apprenticeship)",
       "url": "https://www.webookyou.com/en",
-      "startDate": "2023-02-01",
+      "startDate": "2023-02-02",
       "endDate": "2023-03-01",
       "summary": "Co-developed an ETL process among other fellows, achieving better performance in Analytics Dashboards, developing an API using Django REST Framework, and finally migrating the whole database to AWS S3.",
       "highlights": []
@@ -49,7 +49,7 @@
       "name": "SoyHenry",
       "position": "Mentor",
       "url": "https://www.soyhenry.com/",
-      "startDate": "2023-04-01",
+      "startDate": "2023-04-02",
       "endDate": "2023-09-30",
       "summary": "Lidered +7 teams during their final projects, achieving excelent organization and solving the different obstacles that came up during that time. Besides I supervised +100 students individually, helping them improve their tech and soft skills and became better professionals.",
       "highlights": []
@@ -60,8 +60,8 @@
       "institution": "SoyHenry",
       "area": "Data Scientist",
       "studyType": "Certificate",
-      "startDate": "2022-06-01",
-      "endDate": "2022-11-01"
+      "startDate": "2022-06-02",
+      "endDate": "2022-11-02"
     }
   ],
   "skills": [
